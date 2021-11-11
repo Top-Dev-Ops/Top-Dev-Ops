@@ -5,7 +5,7 @@
 [![Stack Overflow_Badge](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&style=lat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13506072/top-dev-ops)
 
 <br />
-<img align="right" alt="GIF" src="https://github.com/Top-Dev-Ops/Top-Dev-Ops/blob/master/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/Top-Dev-Ops/Top-Dev-Ops/blob/main/coding.gif?raw=true" width="408" height="318" />
 
 👋 **About Me** &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Top-Dev-Ops.Top-Dev-Ops)
 

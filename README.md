@@ -22,7 +22,7 @@ I would like to meet great new people around world!
 - 🌱 I have worked as a full stack developer in several companies including [PJM Inc.](https://mementosjewelry.com), [Fischer](https://www.fischer-trauringe.de/konfischerator/configurator), [bitlectrolabs](https://bitlectrolabs.com) ...
 - 👯 I’m currently expanding my knowledge in Dapp development, NFT marketplace ... 
 - 🤝 I’m actively look for a job position or a role as a full stack developer.
-- 📝 [Resume](https://github.com/Top-Dev-Ops/Top-Dev-Ops/resume.pdf).
+- 📝 [Resume](https://github.com/Top-Dev-Ops/Top-Dev-Ops/blob/main/resume.pdf).
 
 <br />
 
